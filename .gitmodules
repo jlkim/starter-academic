@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = ./public/
+	branch = https://github.com/jlkim/jlkim.github.io.git
