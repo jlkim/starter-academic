@@ -17,9 +17,11 @@ Below are some courses that I've TAed for both as a graduate student and an unde
 
 # Graduate Teaching Assistant
 
+Note: Courses marked with a * indicate courses I was the main/only TA.
+
 ## Fall 2020
 
-- AMATH 456: Calculus of Variations 
+- AMATH 456/AMATH 656: Calculus of Variations*
 
 ## Spring 2020
 
@@ -28,7 +30,7 @@ Below are some courses that I've TAed for both as a graduate student and an unde
 ## Winter 2020
 
 - AMATH 353: Partial Differential Equations 1
-- MATH 217: Calculus 3 for Chemical Engineering
+- MATH 217: Calculus 3 for Chemical Engineering*
 
 ## Fall 2019
 
