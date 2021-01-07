@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MMath Graduate Student in Applied Mathematics
+role: MMath Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -67,6 +67,10 @@ email: "jlkim@uwaterloo.ca"
 user_groups:
 #- Researchers
 #- Visitors
+
+highlight_name: true
 ---
 
-I am a second year MMath student in the Department of Applied Mathematics at the University of Waterloo working with [Dr. Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/). I also did my BMath at the University of Waterloo as well, with a major in Mathematical Physics. This site is currently a work in progress, but please feel free to look around. Feel free to contact me!
+# Welcome!
+
+I am a second year MMath student in the Department of Applied Mathematics at the University of Waterloo in Ontario, Canada, working with [Dr. Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/). I also did my BMath at the University of Waterloo as well, with a major in Mathematical Physics. This site is currently a work in progress, but please feel free to look around.
