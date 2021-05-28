@@ -13,11 +13,15 @@ header:
   image: ""
 ---
 
-Below are some courses that I've TAed for both as a graduate student and an undergraduate student at the University of Waterloo. I'm also a private tutor in a variety of topics in physics and math. Feel free to email me with any questions or if you're interested to find out more!
+Below are some courses that I've TAed for both as a graduate student and an undergraduate student at the University of Waterloo. I'm also a private tutor in a variety of topics in physics and math. 
 
 ## Graduate Teaching Assistant
 
 Note: Courses marked with a * indicate courses I was the main/only TA.
+
+### Spring 2021
+
+- MATH 674: Special Relativity for Teachers
 
 ### Winter 2021
 
