@@ -13,15 +13,26 @@ header:
   image: ""
 ---
 
-Below are some courses that I've TAed for both as a graduate student and an undergraduate student at the University of Waterloo. I'm also a private tutor in a variety of topics in physics and math. 
-
-## Graduate Teaching Assistant
+Below are some courses that I've TAed for both as a graduate student and an undergraduate student. I've also been a private tutor in a variety of topics in physics and math. 
 
 Note: Courses marked with a * indicate courses I was the main/only TA.
 
+
+
+## Graduate Teaching Assistant (Queen's University)
+
+### Fall 2021
+
+- PHYS/ENPH 316: Mathematical Methods in Physics 1
+- PHYS/ENPH 344: Introduction to Quantum Mechanics
+
+ &nbsp;
+
+## Graduate Teaching Assistant (University of Waterloo)
+
 ### Spring 2021
 
-- MATH 674: Special Relativity for Teachers
+- MATH 674: Special Relativity for Teachers*
 
 ### Winter 2021
 
@@ -45,26 +56,12 @@ Note: Courses marked with a * indicate courses I was the main/only TA.
 
 - MATH 115: Linear Algebra for Engineering
 
+&nbsp;
 
-
-
-
-## Undergraduate Teaching Assistant
+## Undergraduate Teaching Assistant (University of Waterloo)
 
 - MATH 137: Calculus 1 for Honours Math (Fall 2016, Fall 2018)
 - MATH 138: Calculus 2 for Honours Math (Winter 2017, Winter 2019)
 - ECE 206: Advanced Calculus 2 for Electrical Engineers (Fall 2017)
 
 
-
-
-
-## Private Tutoring
-
-- MTE 203: Advanced Calculus for Mechatronics
-- MATH 124: Calculus for Kinesiology
-- MATH 127: Calculus 1 for Honours Science
-- PHYS 112: Physics 2
-- PHYS 115: Mechanics for Engineering
-- PHYS 121: Mechanics for Honours Physics
-- MCAT Physics Subject Test

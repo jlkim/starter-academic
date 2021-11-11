@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jungjoon Leo Kim
+title: J. Leo Kim
 
 # Username (this should match the folder name)
 authors:
@@ -10,27 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: MMath Graduate Student
+role: PhD Student in Physics
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Applied Mathematics
-  url: "https://uwaterloo.ca/applied-mathematics/"
-- name: University of Waterloo
-  url: "https://uwaterloo.ca/"
+- name: Department of Physics, Engineering Physics & Astronomy
+- url: "https://www.queensu.ca/physics/home"
+- name: Queen's University
+- url: "https://www.queensu.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Blank
 
 interests:
-- Early universe cosmology
+- Astroparticle physics
 - Gravitational wave cosmology
+- Early universe cosmology
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: "Queen's University"
+    year: 2021-Present
   - course: MMath in Applied Mathematics
     institution: University of Waterloo
-    year: 2019-Present
+    year: 2019-2021
   - course: BMath in Mathematical Physics
     institution: University of Waterloo
     year: 2014-2019
@@ -42,11 +46,14 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:jlkim@uwaterloo.ca
+  link: mailto:leo.kim@queensu.ca
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8699-834X
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -60,7 +67,7 @@ social:
   link: "files/cv.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "jlkim@uwaterloo.ca"
+email: "leo.kim@queensu.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,4 +80,5 @@ highlight_name: true
 
 # Welcome!
 
-I am a second year MMath student in the Department of Applied Mathematics at the University of Waterloo in Ontario, Canada, working with [Dr. Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/). I also did my BMath at the University of Waterloo as well, with a major in Mathematical Physics. This site is currently a work in progress, but please feel free to look around.
+My name is Jungjoon Leo Kim and I am a first year PhD student in Physics at Queen's University in Kingston, Ontario, Canada. I am working with [Joe Bramante](https://www.physics.queensu.ca/facultysites/bramante/) in the Queen's High Energy and Astroparticle Theory [(QHEAT)](https://www.physics.queensu.ca/facultysites/bramante/qheat-group/) group. Before coming to Queen's, I completed my MMath degree in Applied Mathematics at the University of Waterloo working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/), and also completed my BMath degree in Mathematical Physics at the University of Waterloo.
+
