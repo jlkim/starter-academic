@@ -17,16 +17,19 @@ Below are some courses that I've TAed for both as a graduate student and an unde
 
 Note: Courses marked with a * indicate courses I was the main/only TA.
 
-
-
 ## Graduate Teaching Assistant (Queen's University)
+
+### Winter 2022
+
+- PHYS/ENPH 345: Quantum Physics of Atoms, Nuclei and Particles
 
 ### Fall 2021
 
 - PHYS/ENPH 316: Mathematical Methods in Physics 1
-- PHYS/ENPH 344: Introduction to Quantum Mechanics
 
- &nbsp;
+- PHYS/ENPH 344: Introduction to Quantum Mechanics
+  
+  &nbsp;
 
 ## Graduate Teaching Assistant (University of Waterloo)
 
@@ -63,5 +66,3 @@ Note: Courses marked with a * indicate courses I was the main/only TA.
 - MATH 137: Calculus 1 for Honours Math (Fall 2016, Fall 2018)
 - MATH 138: Calculus 2 for Honours Math (Winter 2017, Winter 2019)
 - ECE 206: Advanced Calculus 2 for Electrical Engineers (Fall 2017)
-
-

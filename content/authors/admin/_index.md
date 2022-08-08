@@ -24,8 +24,8 @@ bio: Blank
 
 interests:
 - Astroparticle physics
-- Gravitational wave cosmology
-- Early universe cosmology
+- Cosmology
+- Gravitational waves
 
 education:
   courses:
@@ -60,6 +60,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jlkim
+# inspire
+- icon: inspire
+  icon_pack: ai
+  link: https://inspirehep.net/authors/1945407
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: "cv"
@@ -80,5 +84,6 @@ highlight_name: true
 
 # Welcome!
 
-My name is Jungjoon Leo Kim and I am a first year PhD student in Physics at Queen's University in Kingston, Ontario, Canada. I am working with [Joe Bramante](https://www.physics.queensu.ca/facultysites/bramante/) in the Queen's High Energy and Astroparticle Theory [(QHEAT)](https://www.physics.queensu.ca/facultysites/bramante/qheat-group/) group. Before coming to Queen's, I completed my MMath degree in Applied Mathematics at the University of Waterloo working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/), and also completed my BMath degree in Mathematical Physics at the University of Waterloo.
+My name is Jungjoon Leo Kim and I am a first year PhD student in Physics at Queen's University in Kingston, Ontario, Canada. I do research in theoretical physics/astrophysics with [Joe Bramante](https://www.physics.queensu.ca/facultysites/bramante/) in the Queen's High Energy and Astroparticle Theory [(QHEAT)](https://www.physics.queensu.ca/facultysites/bramante/qheat-group/) group. Before coming to Queen's, I completed my MMath degree in Applied Mathematics at the University of Waterloo working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/), and also completed my BMath degree in Mathematical Physics at the University of Waterloo.
 
+An updated list of my publications can be found [on my inspireHEP page](https://inspirehep.net/authors/1945407), and my updated CV is available at [this link](files/cv.pdf). Please take a look around, and feel free to shoot me an email if you had any questions or wanted to chat! 

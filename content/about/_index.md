@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-In development!
+I am a PhD student in Physics at Queen's University working with Joe Bramante. 
