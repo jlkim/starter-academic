@@ -19,6 +19,24 @@ Note: Courses marked with a * indicate courses I was the main/only TA.
 
 ## Graduate Teaching Assistant (Queen's University)
 
+### Winter 2023
+
+- APSC 112: Physics II
+
+- PHYS/ENPH 345: Quantum Physics of Atoms, Nuclei, and Particles
+
+### Fall 2022
+
+- PHYS/ENPH 316: Mathematical Methods in Physics 1
+
+### Winter 2022
+
+- PHYS/ENPH 345: Quantum Physics of Atoms, Nuclei and Particles
+
+### Fall 2022
+
+- PHYS/ENPH 316: Mathematical Methods in Physics 1
+
 ### Winter 2022
 
 - PHYS/ENPH 345: Quantum Physics of Atoms, Nuclei and Particles

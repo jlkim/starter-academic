@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-I am a PhD student in Physics at Queen's University working with Joe Bramante. 
+I am a PhD candidate in Physics at Queen's University working with Joe Bramante. 
