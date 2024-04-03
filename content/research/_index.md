@@ -43,4 +43,6 @@ An updated list of publications can be found [on my inspireHEP page](https://ins
 
 ## Peer-reviewed articles
 
-1. **J. L. Kim**\* and G. Geshnizjani, *Spectrum of Cuscuton Bounce*, [*JCAP* **03** (2021) 104](https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/104). [[2010.06645]](https://arxiv.org/abs/2010.06645).
+1. J. Bramante, M. Diamond, and **J. L. Kim**, *The effect of multiple cooling channels on the formation of dark compact objects*, [*JCAP* **02** (2024) 002](https://iopscience.iop.org/article/10.1088/1475-7516/2024/02/002). [[2309.13148]](https://arxiv.org/abs/2309.13148).
+
+2. **J. L. Kim**\* and G. Geshnizjani, *Spectrum of Cuscuton Bounce*, [*JCAP* **03** (2021) 104](https://iopscience.iop.org/article/10.1088/1475-7516/2021/03/104). [[2010.06645]](https://arxiv.org/abs/2010.06645).
