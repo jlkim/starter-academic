@@ -84,6 +84,6 @@ highlight_name: true
 
 # Welcome!
 
-My name is Jungjoon Leo Kim and I am a PhD candidate in Physics at Queen's University in Kingston, Ontario, Canada. I do research in theoretical physics/astrophysics with [Joe Bramante](https://www.queensu.ca/academia/bramante/) in the Queen's High Energy and Astroparticle Theory [(QHEAT)](https://www.queensu.ca/academia/bramante/qheat-group) group. Before coming to Queen's, I completed my MMath degree in Applied Mathematics at the University of Waterloo working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/), and also completed my BMath degree in Mathematical Physics at the University of Waterloo.
+My name is Jungjoon Leo Kim and I am a PhD candidate in Physics at Queen's University in Kingston, Ontario, Canada. I perform research in theoretical physics/astrophysics with [Joe Bramante](https://www.queensu.ca/academia/bramante/) in the Queen's High Energy and Astroparticle Theory [(QHEAT)](https://www.queensu.ca/academia/bramante/qheat-group) group. Before coming to Queen's, I completed my MMath degree in Applied Mathematics at the University of Waterloo working with [Ghazal Geshnizjani](https://ghazalgeshnizjani.wordpress.com/), and also completed my BMath degree in Mathematical Physics at the University of Waterloo.
 
 An updated list of my publications can be found [on my inspireHEP page](https://inspirehep.net/authors/1945407), and my updated CV is available at [this link](files/cv.pdf). Please take a look around, and feel free to shoot me an email if you had any questions or wanted to chat! 
