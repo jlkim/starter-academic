@@ -27,7 +27,7 @@ The true nature of dark matter remains elusive. It's not such a crazy idea to co
 
 With Melissa Diamond and Joe Bramante, I considered the [effects of having mulitple cooling channels in our dark sector](https://iopscience.iop.org/article/10.1088/1475-7516/2024/02/002), which can lead to the formation of compact objects and sub-solar mass black holes -- the latter of which would serve as smoking-gun signatures of novel physics beyond the standard picture of black hole formation. We found that the particle physics model is directly imprinted in the cooling rates, and that the landscape of compact objects varies significantly with the specific particle model we consider.
 
-We (a group of researchers at Queen's University -- Melissa Diamond, Chris Cappiello, Qinrui Liu, Joe Bramante, Aaron Vincent, and myself) have shown how a simple [dissipative dark sector at early times](https://arxiv.org/abs/2405.04575) (before Big Bang Nucleosynthesis) could result in a population of dark compact objects (DarkCOs) and primordial black holes (PBHs), which could be forming as late as today! Along with the plethora of novel, exciting observable features, this dark sector could also be all of the dark matter, while having about 20% of the sector in DarkCOs or PBHs.
+We (a group of researchers at Queen's University -- Melissa Diamond, Chris Cappiello, Qinrui Liu, Joe Bramante, Aaron Vincent, and myself) have shown how a simple [dissipative dark sector at early times](https://arxiv.org/abs/2405.04575) (before Big Bang Nucleosynthesis) could result in a population of dark compact objects (DarkCOs) and primordial black holes (PBHs), which could be forming as late as today! Along with the plethora of novel, exciting observable features, this dark sector could also be all of the dark matter, while having about $\mathcal{O}(10\%)$ of the sector in DarkCOs or PBHs.
 
 ## Cosmology with Gravitational Waves
 
@@ -47,7 +47,7 @@ An updated list of publications can be found [on my inspireHEP page](https://ins
 
 ## Preprints
 
-1. J. Bramante, C. V. Cappiello, M. D. Diamond, **J. L. Kim**, Q. Liu, and A. C. Vincent, *A Dissipative Dark Cosmology: From Early Matter Dominance to Delayed Compact Objects*, [[2405.04575]](https://arxiv.org/abs/2405.04575).
+1. J. Bramante, C. V. Cappiello, M. D. Diamond, **J. L. Kim**, Q. Liu, and A. C. Vincent, *A Dissipative Dark Cosmology: From Early Matter Dominance to Delayed Compact Objects*, Accepted to PRD. [[2405.04575]](https://arxiv.org/abs/2405.04575).
 
 ## Peer-reviewed articles
 
